@@ -1,0 +1,1 @@
+java -jar srv5_SemaforoEntrada_RMI.jar
