@@ -1,1 +1,0 @@
-java -jar srv10_BarreraSalida_RMI.jar

@@ -1,1 +1,0 @@
-java -jar srv9_Sirena_RMI.jar
